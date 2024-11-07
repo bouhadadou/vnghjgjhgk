@@ -1,0 +1,417 @@
+
+*{
+    margin: 0;
+    
+}
+.body{
+margin: 0;
+width: 100vw;
+height: 100vh;
+background-image:url(  IMAGE3.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size:100% ;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+img{
+ padding-left: 10px; 
+ padding-bottom: 25px;
+}
+header nav{
+display: flex;
+justify-content: flex-end;
+color:antiquewhite;
+
+}
+a{
+text-decoration: 0em;
+margin: 19px;
+color: white;
+position: relative;
+bottom: 265px;
+left: 660px;
+}
+.two{
+ position: relative;   
+ right: 230px;
+ bottom: 40px;
+ color: orangered;
+ font-size: 45px;
+ font-weight: 600;
+ font-family: 'Courgette';
+}
+.hi{
+ position: relative;   
+ bottom:40px;
+ right:  115px;
+ font-weight: 100;
+ font-size: 14px;
+ font-family:'Poppins' ;
+ color: white;
+}
+button{
+position: relative;    
+right:550px;
+top:20px;
+background-color: transparent;
+border: 2px solid #ff4500;
+border-radius: 7px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+padding-top: 3px;
+padding-bottom: 2px;
+}
+img{
+ position: relative;  
+ bottom: 240px;
+ right:  150px; 
+
+}
+.SB{
+ color: #ff4500;
+position: relative;
+bottom: 257px;
+left: 40px;
+font-family: 'Poppins';
+}
+.page{
+  width: 100vw;
+}
+.poor{
+ font-size: 24px; 
+ font-weight: 600; 
+ position: relative; 
+ left: 600px;
+ top: 20px;
+ text-decoration: underline;
+ text-decoration-color: #ff4500;
+ font-family: 'Poppins';
+}
+.about{
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.paragraphe{
+  position: relative;
+  bottom: 257px;
+  left: 700px;
+  font-size: 15px;
+  font-weight: 300;
+  color:black;
+  font-family: 'Poppins';
+}
+h1{
+ position: relative; 
+ left:700px;
+ bottom: 265px;
+ font-weight:500;
+ font-size: 24px;
+ font-family: 'Poppins';
+}
+
+.Learn{
+
+position: relative;
+left: 1400px;
+bottom: 270px;
+
+}
+.BB{
+  padding-left: 5px;
+  padding-right: 5px;
+  background-color: #ff4500;
+  font-family: 'Poppins';
+}
+
+video{
+position: relative;  
+left: 90px;
+top: 60px;
+
+}
+.gret{
+  width: 100vw;
+  
+}
+.hello{
+ display: grid;
+ grid-template-rows: 25% 25% 25% 25% 25% ; 
+ grid-template-columns: 50% 50% 50% ;
+ height: 1350px; 
+width: 500px; 
+gap: 100px;
+}
+.class{   
+
+border:2px solid grey; 
+position: relative; 
+left: 200px;
+bottom: 20px;
+border-radius: 12px;
+
+}
+
+.gfh{
+  display: flex;
+  flex-direction: row;
+  
+}
+.Product{
+  position: relative;
+  bottom: 90px;
+  left: 570px;
+  font-family: 'Poppins';
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: #ff4500;
+font-size: 25px;
+}
+.ger{
+ position: relative;
+ left: 1px;
+ top: 10px;
+}
+.LERT{
+ position: relative; 
+ left: 90px;
+ top: 12px;
+ font-size: 18px;
+ font-weight: 600;
+ color: antiquewhite;
+ background-color: #ff4500;
+ height: 20px;
+ width: 55px;
+ padding-left: 15px;
+ border: 2px solid #ff4500;
+ border-radius: 2px;
+ 
+}
+.QR{
+  position: relative; 
+  left: 39px;
+  top: 4px; 
+  font-weight: 600; 
+}
+#pcb{
+width: 100vh;
+position: relative;
+right: 360px;
+}
+.CORINB{
+ position: relative; 
+ left: 590px;
+ top: 600px;
+ font-size: 23px;
+ font-weight: 600;
+ text-decoration: underline;
+ text-decoration-color: #ff4500;
+ font-family: 'Poppins';
+}
+.fin{
+height: 440px;  
+width: 540px;
+border: 2px solid orangered;
+border-radius: 10px;
+position: relative;
+left: 700px;
+top: 670px;
+
+}
+input{
+position: relative;  
+top: 150px;
+left: 710px;
+width: 500px;
+
+margin: 10px;
+padding-top: 20px;
+border: 2px solid gainsboro ;
+border-radius: 7px;
+}
+.message{
+  position: relative;
+  top: 140px;
+  left: 720px;
+  font-family: 'Poppins';
+  font-size: 17px;
+  font-weight: 600;
+}
+textarea{
+ position: relative; 
+ top: 160px;
+ left: 720px;
+ height:130px;
+ width: 350px;
+ border: 2px solid gainsboro ;
+border-radius: 7px;
+}
+.yello{
+background-color: #ff4500;
+color: antiquewhite;
+position: relative; 
+top: 400px;
+left: 20px; 
+padding: 0px;
+font-size: 16px;
+font-weight: 500;
+}
+.op{
+ position: relative; 
+ left: 100px;
+ bottom: 170px;
+}
+.email{
+ color: #ff4500;
+ font-weight: 500; 
+ position: relative;
+ bottom: 270px;
+ left: 200px;
+ font-family: 'Poppins';
+}
+.HI{
+ position: relative; 
+bottom: 275px;
+ left: 200px;
+ font-family: 'Poppins';
+}
+.try{
+ position: relative; 
+ left: 90px;
+ 
+}
+.Phone{
+ color: #ff4500; 
+ position: relative;
+ bottom: 350px;
+ left: 200px;
+ font-weight: 500;
+ font-family: 'Poppins';
+}
+.aa{
+position: relative; 
+bottom: 350px;
+font-weight: 550;
+left: 200px;
+}
+.VV{
+position: relative;  
+left: 55px;
+bottom:320px;
+}
+.HH{
+ position: relative; 
+ bottom: 410px;
+ left: 190px;
+ font-family: 'Poppins';
+ font-weight: 500;
+}
+.mm{
+position: relative;  
+bottom: 470px;
+left: 190px;
+font-weight: 500;
+ font-family: 'Poppins';
+ color: #ff4500;
+}
+.copu{
+ height: 19.5vw; 
+ width: 790vh;
+ background-color: grey;
+ position: relative;
+ right: 400px;
+ top: 1654px;
+color: antiquewhite;
+border: 3px solid #ff4500;
+
+}
+.links{
+  position: relative;
+  left: 1000px;
+  top: 15px;
+  font-family: 'Poppins';
+  color: white;
+  font-weight: 700;
+}
+.popi{
+ position: relative; 
+ left: 1000px;
+ top: 30px;
+ color: aliceblue;
+ font-family: 'Poppins';
+}
+.IMAGG{
+  position: relative;
+  top: 610px;
+  right: 760px;
+}
+
+
+.nn{
+position: relative; 
+right: 20px;
+}
+.Lo{
+position: relative;  
+top: 1120px;
+left: 510px;
+color: white;
+font-weight: 600;
+font-family: 'Poppins';
+font-size: 25px;
+}
+.io{
+position: relative;  
+top: 1100px;
+left: 500px;
+color: white;
+font-family: 'Poppins';
+margin: 15px;
+}
+.Lpp{
+  position: relative;  
+  top: 890px;
+  left: 714px;
+  color: white;
+  font-weight: 600;
+  font-family: 'Poppins';
+  font-size: 25px; 
+}
+.idf{
+  position: relative;  
+  top: 880px;
+  left: 700px;
+  color: white;
+  font-family: 'Poppins';
+  margin: 15px;
+  }
+  .jjj{
+    position: relative;  
+    top: 750px;
+    left: 1012px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Poppins';
+    font-size: 25px; 
+  }
+  .hhhh{
+    position: relative;  
+    top: 730px;
+    left: 1000px;
+    color: white;
+    font-family: 'Poppins';
+    margin: 15px;
+    }
+    .nn{
+      position: relative;
+      top: 1375px;
+    }
+    
+  
